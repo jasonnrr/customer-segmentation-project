@@ -6,19 +6,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-KMeans-orange.svg)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io)
 
----
-
-## Author & Contact
-
-| | |
-|---|---|
-| **Author** | KuchikiRenji |
-| **Email** | [KuchikiRenji@outlook.com](mailto:KuchikiRenji@outlook.com) |
-| **GitHub** | [github.com/KuchikiRenji](https://github.com/KuchikiRenji) |
-| **Discord** | `kuchiki_renji` |
-
----
-
 ## What This Project Does
 
 This repository provides a complete **customer segmentation** workflow:
@@ -155,7 +142,7 @@ def plot_clusters(df, labels):
 
 ## Case Study
 
-The `case study/` folder contains **R&D(ML)_DeeptiGupta.pdf** with:
+The `case study/` folder contains **R&D(ML)\_DeeptiGupta.pdf** with:
 
 - Problem statement
 - Task 1 questions and answers
@@ -193,4 +180,4 @@ See [LICENSE](LICENSE) in this repository.
 
 ---
 
-*Customer Segmentation Project by KuchikiRenji — [GitHub](https://github.com/KuchikiRenji) | [Email](mailto:KuchikiRenji@outlook.com) | Discord: kuchiki_renji*
+_Customer Segmentation Project by KuchikiRenji — [GitHub](https://github.com/KuchikiRenji) | [Email](mailto:KuchikiRenji@outlook.com) | Discord: kuchiki_renji_
