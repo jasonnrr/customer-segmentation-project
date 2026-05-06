@@ -168,16 +168,7 @@ The `case study/` folder contains **R&D(ML)\_DeeptiGupta.pdf** with:
 
 ---
 
-## Contributing
-
-Contributions are welcome. Open an issue or submit a pull request on [GitHub](https://github.com/KuchikiRenji/customer-segmentation-project).
-
----
-
 ## License
 
 See [LICENSE](LICENSE) in this repository.
 
----
-
-_Customer Segmentation Project by KuchikiRenji — [GitHub](https://github.com/KuchikiRenji) | [Email](mailto:KuchikiRenji@outlook.com) | Discord: kuchiki_renji_
